@@ -9,20 +9,20 @@ COMO USAR:
 4) enviar formulario
 
 Respostas automaticas:
--Ótimo espaço fisico
--Bom material
--Não sei avaliar biblioteca
--Prof apresentou conteúdo
--Conteúdo foi cumprido
--Prof apresentou critério
--Ótimo na coerencia
--Ótimo na contribuição na aula
--Ótimo na clareza
--Horário cumprido integralmente
--Bom na disponibilidade de prof
--Faria outra disciplina
--Não se aplica reposição
--Ótimo monitoria (https://github.com/edusporto)
--Não sei avaliar atividade extraclasse
+1) Ótimo espaço fisico
+2) Bom material
+3) Não sei avaliar biblioteca
+4) Prof apresentou conteúdo
+5) Conteúdo foi cumprido
+6) Prof apresentou critério
+7) Ótimo na coerencia
+8) Ótimo na contribuição na aula
+9) Ótimo na clareza
+10) Horário cumprido integralmente
+11) Bom na disponibilidade de prof
+12) Faria outra disciplina
+13) Não se aplica reposição
+14) Ótimo monitoria (https://github.com/edusporto)
+15) Não sei avaliar atividade extraclasse
 
 TEM QUE MUDAR A NOTA OKKK
