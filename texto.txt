@@ -1,0 +1,17 @@
+document.getElementById("resposta_17-1_1").checked = true;
+document.getElementById("resposta_18-1_2").checked = true;
+document.getElementById("resposta_19-1_5").checked = true;
+document.getElementById("resposta_39-8_27").checked = true;
+document.getElementById("resposta_40-6_21").checked = true;
+document.getElementById("resposta_41-8_27").checked = true;
+document.getElementById("resposta_26-1_1").checked = true;
+document.getElementById("resposta_23-1_1").checked = true;
+document.getElementById("resposta_24-1_1").checked = true;
+document.getElementById("resposta_42-7_24").checked = true;
+document.getElementById("resposta_28-1_2").checked = true;
+document.getElementById("resposta_44-8_27").checked = true;
+document.getElementById("resposta_32-2_7").checked = true;
+document.getElementById("resposta_33-9_37").checked = true;
+document.getElementById("resposta_35-1_1").checked = true;
+document.getElementById("resposta_36-10_42").checked = true;
+document.getElementById("resposta_43-5_17").focus();
