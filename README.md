@@ -1,5 +1,5 @@
 # resolvedor-de-formularios
-javascript que resolve umas parada
+javascript para auto-responder o formulario de auto-avaliaçao do cotuca
 
 COMO USAR:
 
